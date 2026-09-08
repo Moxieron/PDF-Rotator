@@ -1,8 +1,9 @@
 # PdfRotator app
 
-Work in progress.
+Work in progress. App is not finished. 
 
 Systematic PDF Rotator based off the orientation of the first page.
+
 
 ## Run the app
 
