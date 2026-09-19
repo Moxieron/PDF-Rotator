@@ -1,6 +1,6 @@
 # PdfRotator app
 
-Work in progress, as the app is not finished. 
+Mostly completed, since GUI basic functionality is now finished. 
 
 Systematic PDF Rotator based on the orientation of the first page.
 
